@@ -1,5 +1,6 @@
 # Gargoyle-Luci
     Supported Luci Web Interface in Gargoyle
+    Origin source:(https://github.com/ericpaulbishop/gargoyle.git)
 ## Part ⅰ:
 ### add luci package from Luci source:
     ./scripts/feeds update luci && ./scripts/feeds install luci
