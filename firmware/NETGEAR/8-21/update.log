@@ -1,0 +1,12 @@
+21/8/2017:
+	Gargoyle-Luci：
+		Gargoyle-Luci web interface firmware.
+		none prebuild package except default.
+		openwrt commit 	"9a1fd3e313cedf1e689f6f4e342528ed27c09766"
+		gargoyle commit "f9619145c964ac56a0dac9b52ee462f3702b46ae"
+	
+	Gargoyle：
+		only English prebuild
+		none prebuild package except default.
+		openwrt commit 	"9a1fd3e313cedf1e689f6f4e342528ed27c09766"
+		gargoyle commit "f9619145c964ac56a0dac9b52ee462f3702b46ae"
